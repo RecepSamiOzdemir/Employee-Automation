@@ -1,0 +1,4 @@
+HourlyEmployee,456.0,1.12,akjwbb,nsnegon,0,510.72
+SalariedEmployee,78684.0,knaebf,nısngoın,1,78684.0
+BaseSalariedCommisionEmployee,0.0,0.0,468468.0,djkbndoıfn,nkofdnbodın,2,468468.0
+HourlyEmployee,1.0,0.0,jbIWUBF,BIUBEZB,3,0.0
